@@ -11,7 +11,7 @@ let music=document.getElementById("music");
 
 
 
-let message="sooo I m sorry whatever happend just happend 😐 \n\n whatever shit i saud  i did not mean that i don not know bs mujhe kuch smhj nhi aa rha tha what should i do thats why voh sab hua  🥺\n buttt butt better you understand that  galti abhi bhi tumahri hi hai .. bczz you make me angry so dont try to make me angry again better you understand 🫣\N i dont want to do bro bcz tumne voh kiya tabhi voh hua whatever leave it 🫂 \n\nYou are my everything babbebee ...\n ndd ndd I love you forever more and more ❤️";
+let message="Hey! Just wanted to check in and see how you’re doing. Hope everything is going well for you.” 😐❤️";
 
 
 let i=0;
