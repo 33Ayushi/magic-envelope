@@ -16,7 +16,7 @@ Built using HTML, CSS and JavaScript
 
 Clone the repository
 
-git clone https://github.com/yourusername/magic-envelope.git
+git clone https://github.com/33Ayushi/magic-envelope.git
 
 Open the project folder
 
